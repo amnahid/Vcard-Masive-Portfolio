@@ -1,0 +1,108 @@
+@media(max-width:1300px){
+	#skill-box-container{justify-content: space-evenly;}
+	#Service-box-container{justify-content: space-evenly;}
+	.service-card{box-shadow: 0px 20px 30px;}
+}
+@media(max-width:1285px){
+	#skill-box-container{justify-content: space-evenly;}
+	#Service-box-container{justify-content: space-evenly;}
+	.service-card{box-shadow: 5px 20px 20px;}
+	#contact-info{width:25%;}
+	#contact-box{width:100%;}
+}
+@media(max-width:1220px){
+	#skill-box-container{display:grid;margin-top:65pc;}
+	#Skill{height:108pc;}
+	#card{width:20pc;}
+}
+@media(max-width:1199px ){
+	#Service{height: 125pc;}
+	#Service-box{height: 120pc;}
+	#Service-box-container{ display: grid;}
+	.service-card{margin-bottom: 5pc;box-shadow: 0px 20px 50px;}
+	#Portfolio{height:55pc;}
+}
+@media(max-width:1098px){
+	#Contact{height: 57pc;}
+	#contact-box{display: grid;justify-content: center;align-items: center;}
+	#contact-info{height: 15pc;justify-self: center;display: grid;}
+	#contact-info-container{width:100%;height:100%; display: grid;grid-template-columns: 1fr 1fr;justify-content: center;align-items: center;}
+	#cicdiv p strong, #cicdiv h5{text-align:center; justify-content:center;}
+	#contact-body{margin-top: 3pc;}
+	#contact-info,#contact-body{width:100%;}	
+	#contact-info-container h5{margin-left:0;}
+}
+@media(max-width:935px ){
+	#Education{height:50pc;}
+	#Degree-body{width:93%;}
+	#Degree-body-2{width:93%;}
+	.indicator{display:none;}	
+	#Experience{height:50pc;}
+	#Work-body{width:93%;}
+	#Work-body-2{width:93%;}
+}
+@media(max-width:880px ){
+	#picture{width:15.5pc;height:15.5pc;}
+}
+@media(max-width:864px ){
+	#menu{display:none;}
+	#Intro{display:grid;justify-content:center;align-items:center;}
+	#aboutInfo{height:12pc;left:0;display: flex;justify-content: left;}
+	#name-profession{width:19pc;}
+	#proSpan{position: relative;right: -10px;}
+	#profession{width:19pc;display:flex;justify-content:center;}
+	#picture{right:0;justify-self: center;grid-row: 1;}
+	#downArrows{z-index:9;}
+}
+@media(max-width:799px ){
+	#backgroundImage{width:70pc;}
+	#Portfolio{height: 96pc;}
+	#Portfolio-box{grid-row-gap: 1pc;}
+	#Contact{height:60pc;}
+	#contact-info, #contact-body{width:90%;justify-self:center;}
+	#contact-body{height:32pc;}
+	.fname,.lname,.mobile-number,.email,.message{width: 91%;}
+	.submit{right: 50%;margin-right: -5pc;}
+}
+@media(max-width:670px ){
+	#Education,#Experience{height:60pc;}
+}
+@media(max-width:670px ){
+	#Contact{height:65pc;}
+	#Degree-margin,#Work-margin{height:41pc;}
+	#contact-info{height:20pc;}
+	.fname,.lname,.mobile-number,.email,.message{width: 89%;}
+}
+@media(max-width:483px ){
+	#Education, #Experience{height:85pc;}
+}
+@media(max-width:419px ){
+	#Testimonial{height:60pc;}
+	#Degree-margin,#Work-margin{height:60pc;}
+	.fname,.lname,.mobile-number,.email,.message{width: 83%;}
+	#Contact{height:75pc;}
+	#contact-info{height: 30pc;}
+	#contact-info-container{grid-template-columns: 1fr;}
+}
+@media(max-width:394px ){
+	#Portfolio-Intro{font-size:2pc;}
+	#Portfolio-box{}
+	#Portfolio-box a{left: 50%;margin-left: -12.8pc;}
+	.Portfolio-card{width:100%;}
+	.Portfolio-card{}
+	#Testimonial{height: 65pc;}
+	#Contact{height:75pc;}
+}
+@media(max-width:320px ){
+	#Testimonial-Intro{font-size:2.5pc;}
+	#Contact-Intro{font-size: 2pc;text-align: left;}
+}
+@media(max-width:312px ){
+	#name{font-size: 45px;text-align: center;}
+	#Education{height:95pc;}
+	#Degree-margin, #Work-margin{height: 72pc;}
+	#Testimonial{height: 70pc;}
+}
+@media(max-width:260px ){
+	#name{font-size: 35px;}
+}

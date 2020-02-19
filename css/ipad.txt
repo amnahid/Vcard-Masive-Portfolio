@@ -1,0 +1,144 @@
+/* <============= Only for I-pad pro =============> */ 
+@media (max-width: 1024px) and (max-height: 1366px){
+/* -----------------Intro----------------- */
+ 	#Intro{		
+		height: 86pc;
+	}
+	#backgroundImage{
+		width: 200pc;
+	}
+	#navMenu{
+		left: 4.7pc;
+	}
+	#socialIcons{
+		top: 52%;
+		left: 9.4%;
+	}
+	.sidebar{
+		left: -10.2pc;
+	}
+	.positioned{
+		left: 0;
+	}
+	.sidebar{
+		height: 100%;
+	}
+	.openingButton{
+		top:50%;
+	}
+	#name-profession{
+		margin-top: 37pc;
+		margin-left: 6pc;
+	}
+	#avatar{
+		width: 25pc;
+		margin-top: -17.3pc;
+		margin-left: 14pc;
+	}
+	#waves{
+		top: 26.9pc;
+		left: 32.6pc;
+	}	
+	#circle1,#circle2{
+		width: 400px;
+		height: 400px;
+	}
+	#downArrows{
+		top: 75pc;
+	}
+/* --------x--------Intro--------x-------- */
+/* --------x--------Education--------x-------- */
+ 	#edu-datails-1{
+		width: 13pc;
+	}
+	#edu-datails-2{
+		width: 32pc;
+	}
+	#Degree-margin{
+		left: 31.6pc;
+	}
+/* --------x--------Education--------x-------- */
+/* -----------------Skill----------------- */
+ 	#Skill{
+		height: 100pc;
+	}
+	#skill-box{
+		margin-top: 10pc;
+		margin-left: 23pc;
+		width: 19pc;
+		height: 77pc;
+	}
+	#skill-box-container{
+		display: table;
+		height: 31pc;
+	}
+	#card{
+		margin-top: -5pc;
+	}
+/* --------x--------Skill--------x-------- */
+/* -----------------Service----------------- */
+ 	#Service{
+		height: 125pc;
+	}
+	#Service-box{
+		width: 100%;
+		height: 36.8pc;
+		display: block;
+		font-family: agency fb;
+	}
+	#Service-box-container{
+		display:block;
+		width: 18pc;
+		margin: auto;
+		margin-top: 2pc;
+	}
+	.service-card{
+		margin-top: 5pc;
+	}
+	#Experience-datails-1{
+		width: 13pc;
+	}
+	#Experience-datails-2{
+		width: 32pc;
+	}
+	#Work-margin{
+		left: 31.6pc;
+	}
+/* --------x--------Service--------x-------- */
+/* -----------------Portfolio----------------- */
+ 	#Portfolio-container{
+		width:60pc;
+	}
+	#Portfolio-card-2{
+		right: 19.8pc;
+	}
+/* --------x--------Portfolio--------x-------- */
+/* -----------------Contact----------------- */
+ 	#contact-info{
+		width:20pc;
+	}
+	#contact-body{
+		width: 38pc;
+		margin-right: 17pc;
+	}
+	.fname{
+		width:33pc;
+	}
+	.lname{
+		width:33pc;
+	}
+	.mobile-number{
+		width:33pc;
+	}
+	.email{
+		width:33pc;
+	}
+	.message{
+		width:33pc;
+	}
+	.submit{
+		margin-top: 0.5pc !important;
+		margin-right: 2.8pc !important;
+	}
+/* --------x--------Contact--------x-------- */
+}
